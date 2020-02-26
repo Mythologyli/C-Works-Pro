@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6-1 使用递归函数计算1到n之和", "6-1 使用递归函数计算1到n之和.vcxproj", "{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Debug|x64.ActiveCfg = Debug|x64
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Debug|x64.Build.0 = Debug|x64
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Debug|x86.Build.0 = Debug|Win32
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Release|x64.ActiveCfg = Release|x64
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Release|x64.Build.0 = Release|x64
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Release|x86.ActiveCfg = Release|Win32
+		{8EDA97A6-AA53-478F-BEEE-38EEBF8AA557}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A4A5ED-F38C-408E-AF47-8D3A93C1D86A}
+	EndGlobalSection
+EndGlobal
